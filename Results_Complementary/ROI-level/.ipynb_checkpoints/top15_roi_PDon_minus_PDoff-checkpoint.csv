@@ -1,0 +1,16 @@
+source_roi,target_roi,diff_rate
+parahippocampal-rh (-0.28),lateralorbitofrontal-lh,0.41666666666666663
+entorhinal-rh (-0.27),cuneus-lh,0.41666666666666663
+lateraloccipital-rh,rostralmiddlefrontal-lh,-0.41666666666666663
+bankssts-rh (-0.29),cuneus-lh,0.41666666666666663
+parahippocampal-rh (-0.28),cuneus-lh,0.41666666666666663
+parstriangularis-lh,lateralorbitofrontal-lh,0.41666666666666663
+parstriangularis-lh,cuneus-lh,0.41666666666666663
+bankssts-rh (-0.29),lateralorbitofrontal-lh,0.41666666666666663
+bankssts-rh (-0.29),pericalcarine-rh,0.41666666666666663
+parahippocampal-rh (-0.28),pericalcarine-rh,0.41666666666666663
+entorhinal-rh (-0.27),lateralorbitofrontal-lh,0.41666666666666663
+entorhinal-rh (-0.27),pericalcarine-rh,0.41666666666666663
+precentral-lh,rostralmiddlefrontal-lh,-0.4166666666666665
+parsopercularis-lh,lateralorbitofrontal-lh,0.38888888888888884
+parsopercularis-lh,cuneus-lh,0.38888888888888873

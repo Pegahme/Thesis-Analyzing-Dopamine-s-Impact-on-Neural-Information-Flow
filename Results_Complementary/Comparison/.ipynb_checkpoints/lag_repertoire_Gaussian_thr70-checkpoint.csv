@@ -1,0 +1,4 @@
+estimator,group,threshold,n_robust_edges,count_50,count_100,count_150,count_200,count_250,width_bins,median_ms,iqr
+Gaussian,healthy,70,6,6,0,0,0,0,1,50.0,[50–50]
+Gaussian,PD-off,70,9,7,2,0,0,0,2,50.0,[50–50]
+Gaussian,PD-on,70,12,11,0,0,1,0,2,50.0,[50–50]

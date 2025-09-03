@@ -1,0 +1,26 @@
+{
+  "N_nodes": 23,
+  "E_directed": 506,
+  "counts": {
+    "healthy": 12,
+    "PD-off": 12,
+    "PD-on": 12
+  },
+  "tests": [
+    {
+      "metric": "density",
+      "p_Healthy_vs_PDoff": 0.6980650967451627,
+      "perms_HvsOFF": 20000,
+      "p_Healthy_vs_PDon": 0.8767561621918905,
+      "perms_HvsON": 20000,
+      "p_PDon_minus_PDoff": 0.5220893336587747,
+      "perms_paired": 4096,
+      "q_Healthy_vs_PDoff": 0.6980650967451627,
+      "sig_Healthy_vs_PDoff": false,
+      "q_Healthy_vs_PDon": 0.8767561621918905,
+      "sig_Healthy_vs_PDon": false,
+      "q_PDon_minus_PDoff": 0.5220893336587747,
+      "sig_PDon_minus_PDoff": false
+    }
+  ]
+}

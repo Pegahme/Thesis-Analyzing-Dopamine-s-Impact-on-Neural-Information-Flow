@@ -1,0 +1,16 @@
+source_roi,target_roi,diff_rate
+parahippocampal-rh (-0.28),cuneus-lh,0.5
+parahippocampal-rh (-0.28),lateralorbitofrontal-lh,0.5
+entorhinal-rh (-0.27),cuneus-lh,0.5
+bankssts-rh (-0.29),cuneus-lh,0.5
+bankssts-rh (-0.29),lateralorbitofrontal-lh,0.5
+entorhinal-rh (-0.27),lateralorbitofrontal-lh,0.5
+precentral-lh,lingual-lh (-0.34),-0.41666666666666674
+parstriangularis-lh,precuneus-lh,0.41666666666666674
+entorhinal-rh,lateralorbitofrontal-lh,0.41666666666666674
+precentral-lh,lingual-rh (-0.28),-0.41666666666666674
+lateralorbitofrontal-lh,medialorbitofrontal-lh,-0.41666666666666674
+parahippocampal-rh,precuneus-rh,0.41666666666666674
+precuneus-rh,lateralorbitofrontal-lh,0.41666666666666674
+cuneus-lh,medialorbitofrontal-lh,-0.41666666666666674
+precentral-lh,inferiortemporal-lh (-0.30),-0.41666666666666674

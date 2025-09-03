@@ -1,0 +1,4 @@
+group,threshold,consensus_total,count_50,count_100,count_150,count_200,count_250,prop_50ms,median_ms,width_bins
+healthy,90,0,0,0,0,0,0,NA,,0
+PD-off,90,1,1,0,0,0,0,1.0,50.0,1
+PD-on,90,2,2,0,0,0,0,1.0,50.0,1
