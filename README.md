@@ -47,7 +47,7 @@ Jupyter notebooks reproducing the main thesis results.
 Supporting analyses and additional figures.
 
 - **Global-level**, **ROI-level**, **Edgewise** → complementary analyses at different resolutions.  
-- **Comparison/** → extra comparisons beyond the main results.  
+- **Comparison/** → supporting plots and .csv files
 - **figs/** → supporting plots (e.g., TE lag distributions, group contrasts).  
 - Additional files:  
   - `Anatomical spatial maps.ipynb` – anatomical visualization of components  
